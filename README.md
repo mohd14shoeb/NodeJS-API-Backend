@@ -21,16 +21,16 @@ database include 3 three tables.
  test all all 4 methods given below
 
 1. Enter New employee details API
-createNewEmployee
+   createNewEmployee
 
 2. Get All employee details API
-getEmployeeDetails
+   getEmployeeDetails
 
 3. Delete Perticular employee record
-deleteEmployeeDetails
+   deleteEmployeeDetails
 
-4.Update employee details
-updateEmployeeDetails
+4. Update employee details
+   updateEmployeeDetails
 
 
 
