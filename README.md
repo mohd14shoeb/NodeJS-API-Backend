@@ -4,11 +4,8 @@
  please follow given below step to run this project
  
 1. Download NodeJS-API-Backend project 
-
-2.open terminal and go to NodeJS-API-Backend folder by typing "cd NodeJS-API-Backend" command
-
+2. open terminal and go to NodeJS-API-Backend folder by typing "cd NodeJS-API-Backend" command
 3. run npm install command on terminal 
- 
 4. run npm start command on terminal, it will start server
  
 till now just project got run, now you need to add database in Mysql
