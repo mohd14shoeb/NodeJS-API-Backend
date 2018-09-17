@@ -43,11 +43,6 @@ if (req.method == 'OPTIONS'){
 next();
 });
 
-
-
-
-
-
 app.use('/products',productRoutes);
 app.use('/orders',orderRouter);
 app.use('/employee',employeeRoutes);
