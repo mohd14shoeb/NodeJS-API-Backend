@@ -18,7 +18,7 @@ database include 3 three tables.
 2. roles(role_id AutoIncreament PK, role_name string)  //PK: primary key
 3. employee(emp_id AutoIncreamn PKt,emp_name string, role_id int, dept_id int)  //PK: primary key
 
- test all all 4 methods given below
+ test  all 4 methods given below
 
 1. Enter New employee details API -->
    createNewEmployee
