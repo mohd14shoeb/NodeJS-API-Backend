@@ -1,7 +1,7 @@
 # NodeJS-API-Backend
 #NodeJS Restful API using MySQL Database 
 
- please follow given below step to run this project
+ please follow given below steps to run this project
  
 1. Download NodeJS-API-Backend project 
 2. open terminal and go to NodeJS-API-Backend folder by typing "cd NodeJS-API-Backend" command
