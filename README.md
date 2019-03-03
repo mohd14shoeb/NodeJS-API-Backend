@@ -1,7 +1,7 @@
 # NodeJS-API-Backend
 #NodeJS Restful API using MySQL Database 
 
- please follow given below step to run this project
+ please follow given below steps to run this project
  
 1. Download NodeJS-API-Backend project 
 2. open terminal and go to NodeJS-API-Backend folder by typing "cd NodeJS-API-Backend" command
@@ -18,7 +18,7 @@ database include 3 three tables.
 2. roles(role_id AutoIncreament PK, role_name string)  //PK: primary key
 3. employee(emp_id AutoIncreamn PKt,emp_name string, role_id int, dept_id int)  //PK: primary key
 
- test all all 4 methods given below
+ test  all 4 methods given below
 
 1. Enter New employee details API -->
    createNewEmployee
